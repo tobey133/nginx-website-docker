@@ -92,4 +92,4 @@ And there you have it. We have succesfully implemented a CI/CD pipeline with git
 
 ## Contact me
 
-Need a devops or SRE engineer to join your team? Send me an email at [utibeabasiumanah6@gmail.com](utibeabasiumanah6@gmail.com)
+Need a devops or SRE engineer to join your team? Send me an email at [tobiaina96@gmail.com](tobiaina96@gmail.com)
